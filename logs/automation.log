@@ -1,0 +1,42 @@
+21:15:02:752 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+21:16:24:259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+21:16:31:486 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+21:16:31:994 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+21:16:32:217 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+21:16:32:365 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+21:16:33:425 [main] INFO  testCases.Tc_002_LoginTest - Is Amy account page confirmation
+21:16:33:480 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+21:16:39:086 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+21:16:39:230 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+21:16:39:759 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+21:16:39:762 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+21:16:41:660 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+21:16:41:702 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+23:16:47:148 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+23:18:46:271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+23:31:12:607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+23:31:19:998 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+23:31:20:637 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+23:31:20:992 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+23:31:21:143 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+23:31:21:300 [main] INFO  testCases.Tc_002_LoginTest - Is Amy account page confirmation
+23:31:22:485 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+23:31:25:743 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+23:31:25:976 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+23:31:26:493 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+23:31:26:500 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+23:31:29:038 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+23:31:29:143 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:06:23:232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\MasterTest.xml"
+00:06:29:044 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+00:06:29:663 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+00:06:29:973 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+00:06:30:095 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+00:06:31:129 [main] INFO  testCases.Tc_002_LoginTest - Is Amy account page confirmation
+00:06:31:229 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+00:06:34:387 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:06:34:537 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:06:35:102 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:06:35:108 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:06:37:281 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:06:37:376 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case

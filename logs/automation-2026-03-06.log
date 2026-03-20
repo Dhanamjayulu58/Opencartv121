@@ -1,0 +1,55 @@
+00:35:32:924 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:35:33:563 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:35:33:564 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:35:34:881 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:35:34:918 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:37:04:283 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:37:04:429 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:37:04:503 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:37:04:616 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:37:05:092 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:37:05:097 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:37:05:232 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:37:05:233 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:37:07:349 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:37:07:382 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:37:07:501 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:37:07:568 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+11:18:50:119 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+11:18:50:289 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+11:18:50:723 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+11:18:50:726 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+11:18:52:411 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+11:18:52:454 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+11:20:04:122 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+11:20:04:248 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+11:20:05:099 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+11:20:05:102 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+11:20:10:397 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+11:20:10:460 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+21:43:22:958 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+21:43:23:503 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+21:43:23:730 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+21:43:23:845 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+21:45:41:320 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+21:45:41:845 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+21:45:42:049 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+21:45:42:159 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+21:45:43:229 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+21:51:53:658 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+21:51:54:236 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+21:51:54:438 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+21:51:54:558 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+21:51:54:673 [main] INFO  testCases.Tc_002_LoginTest - Is Amy account page confirmation
+21:51:55:919 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+22:16:52:731 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\testng.xml"
+22:16:53:234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\testng.xml
+
+22:16:57:869 [main] INFO  testCases.Tc_002_LoginTest - *** Started My Tc_002_LoginTest
+22:16:58:294 [main] INFO  testCases.Tc_002_LoginTest - Entered EmailID
+22:16:58:477 [main] INFO  testCases.Tc_002_LoginTest - Entered password
+22:16:58:574 [main] INFO  testCases.Tc_002_LoginTest - Click on Login
+22:16:58:665 [main] INFO  testCases.Tc_002_LoginTest - Is Amy account page confirmation
+22:16:59:425 [main] INFO  testCases.Tc_002_LoginTest - ** Completed my Test case
+22:31:43:646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DhanuDJ\eclipse-workspace\Opencartv121\testng.xml"

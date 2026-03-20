@@ -1,0 +1,50 @@
+23:33:12:964 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+23:33:13:105 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+23:33:13:566 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+23:33:13:568 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+23:33:15:344 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+23:33:15:409 [main] ERROR testCases.TC_001_AccountRegistration_test - Test Faild
+23:35:45:459 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+23:35:45:606 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+23:35:46:076 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+23:35:46:081 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+23:35:48:034 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+23:35:48:094 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:00:22:380 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:08:18:143 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:08:18:296 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:08:18:790 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:08:18:792 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:08:20:519 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:08:20:550 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:10:05:208 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:10:05:332 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:10:06:422 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:10:06:424 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:10:11:391 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:10:11:427 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:10:50:705 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:10:50:932 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:10:51:459 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:10:51:461 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:10:53:123 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:10:53:154 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:11:59:296 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:11:59:425 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:11:59:819 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:11:59:822 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:12:01:329 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:12:01:362 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:27:48:388 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:27:48:554 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:27:48:937 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:27:48:939 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:27:49:528 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:27:50:301 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:35:26:972 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
+00:35:27:110 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Account Page
+00:35:27:464 [main] INFO  testCases.TC_001_AccountRegistration_test - Click on My Register Page
+00:35:27:466 [main] INFO  testCases.TC_001_AccountRegistration_test - Providing Registartion Details
+00:35:29:112 [main] INFO  testCases.TC_001_AccountRegistration_test - Validation Message
+00:35:29:143 [main] INFO  testCases.TC_001_AccountRegistration_test - Completed my Test Case
+00:35:32:803 [main] INFO  testCases.TC_001_AccountRegistration_test - ** Started My Test Case TC_001_AccountRegistration_test
